@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppTheme" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    
+    <style name="One_Txt" parent="TextBaseStyle">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:paddingHorizontal">20dp</item>
+        <item name="android:paddingVertical">18dp</item>
+    </style>
+    
+    <style name="Two_Txt" parent="TextBaseStyle">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    
+    <style name="TextBaseStyle">
+        <item name="android:fontFamily">@font/fnt1</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:autoSizeTextType">uniform</item>
+    </style>
+    
+</resources>
