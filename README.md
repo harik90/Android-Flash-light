@@ -46,7 +46,7 @@ The **Flashlight App** is a simple, fast, and lightweight Android application de
 ---
 
 ## 📥 Download APK
-👉 [Download Latest APK](https://your-apk-download-link)
+👉 [Download Latest APK](https://github.com/harik90/Android-Flash-light/releases/download/androidflashlight/Flash.Light.apk)
 
 ---
 
