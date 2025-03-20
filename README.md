@@ -19,10 +19,10 @@ The **Flashlight App** is a simple, fast, and lightweight Android application de
 <table align="center">
   <tr>
     <td align="center">
-      <img src="Screenshot/photo1.png" alt="Flash On Screen" width="300"/><br><b>🏠 Home Screen</b>
+      <img src="Screenshot/photo1.png" alt="Flash Off Screen" width="300"/><br><b>🏠 Flash Off Screen</b>
     </td>
     <td align="center">
-      <img src="Screenshot/photo2.png" alt="Flash Off Screen" width="300"/><br><b>📊 Result Screen</b>
+      <img src="Screenshot/photo2.png" alt="Flash On Screen" width="300"/><br><b>📊 Flash On Screen</b>
     </td>
   </tr>
 </table>
@@ -32,9 +32,8 @@ The **Flashlight App** is a simple, fast, and lightweight Android application de
 
 ## 🚀 How to Use
 1. Open the **Flashlight App**
-2. Tap the **Power Button** to turn ON the flashlight
-3. Tap again to turn it OFF
-4. Use it anytime — even offline
+2. Tap again to turn it OFF
+3. Use it anytime — even offline
 
 ---
 
