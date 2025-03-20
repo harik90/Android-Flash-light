@@ -16,9 +16,18 @@ The **Flashlight App** is a simple, fast, and lightweight Android application de
 ---
 
 ## 📸 Screenshots
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="Screenshot/photo1.png" alt="Flash On Screen" width="300"/><br><b>🏠 Home Screen</b>
+    </td>
+    <td align="center">
+      <img src="Screenshot/photo2.png" alt="Flash Off Screen" width="300"/><br><b>📊 Result Screen</b>
+    </td>
+  </tr>
+</table>
 
-| ![Home Screen](Screenshot/photo1.png) | ![Flash ON](Screenshot/photo2.png) |
-
+---
 ---
 
 ## 🚀 How to Use
